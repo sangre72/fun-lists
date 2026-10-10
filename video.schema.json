@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/sangre72/fun-lists/video.schema.json",
+  "title": "fun-lists video.json",
+  "description": "Address list only: public YouTube channels/playlists/videos and Twitch channels. No tokens, no personal data.",
+  "type": "object",
+  "required": ["version", "updated", "youtube", "twitch"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "version": { "const": 1 },
+    "updated": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "youtube": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "name": { "type": "string", "minLength": 1, "maxLength": 160 },
+          "url": { "type": "string", "pattern": "^https://(www\\.|m\\.)?(youtube\\.com/(@[A-Za-z0-9._-]+|channel/[A-Za-z0-9_-]+|playlist\\?list=[A-Za-z0-9_-]+|watch\\?v=[A-Za-z0-9_-]{11})|youtu\\.be/[A-Za-z0-9_-]{11})$" },
+          "kind": { "enum": ["channel", "playlist", "video"] },
+          "genre": { "type": "string", "maxLength": 40 }
+        }
+      }
+    },
+    "twitch": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "name": { "type": "string", "minLength": 1, "maxLength": 160 },
+          "url": { "type": "string", "pattern": "^https://(www\\.)?twitch\\.tv/[A-Za-z0-9_]{3,25}$" },
+          "genre": { "type": "string", "maxLength": 40 }
+        }
+      }
+    }
+  }
+}

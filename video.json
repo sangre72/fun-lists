@@ -1,0 +1,7 @@
+{
+ "$schema": "./video.schema.json",
+ "version": 1,
+ "updated": "2026-10-10",
+ "youtube": [],
+ "twitch": []
+}
