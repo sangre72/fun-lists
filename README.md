@@ -11,7 +11,7 @@
 | 파일 | 내용 |
 |---|---|
 | `radio.json` | 추천 나라 순서대로 나라별 방송국. 방송국마다 아래 필드를 적습니다 |
-| `video.json` | 공개 YouTube 채널·재생목록·영상과 Twitch 채널 주소. 지금은 비어 있습니다. 앱에 기본 추천 목록이 없기 때문입니다 |
+| `video.json` | 영상 플랫폼 주소: YouTube(https://www.youtube.com), Twitch(https://www.twitch.tv). 항목마다 `id`, `name`, `url`, `type`(`platform`·`channel`·`playlist`·`video`), `note` 를 적습니다. teslatube 의 Twitch 재생은 `feature/twitch` 브랜치에만 있습니다 |
 | `radio.schema.json`, `video.schema.json` | 형식(JSON Schema) |
 | `scripts/validate.py` | 형식·중복·안전 규칙 확인(표준 라이브러리만). `--probe` 를 붙이면 각 스트림을 https 페이지의 브라우저처럼 열어 https·CORS·직접 재생 여부를 보여 줍니다(목록에 저장하지는 않습니다) |
 
@@ -59,7 +59,7 @@ Licence: **CC0 1.0 (public domain)**. Use, change and fork it freely, without co
 | File | Contents |
 |---|---|
 | `radio.json` | Stations grouped by country, in the recommended country order. Fields per station are below |
-| `video.json` | Public YouTube channels / playlists / videos and Twitch channel URLs. Empty for now, because the app ships no default list |
+| `video.json` | Video platform addresses: YouTube (https://www.youtube.com) and Twitch (https://www.twitch.tv). Each item has `id`, `name`, `url`, `type` (`platform` / `channel` / `playlist` / `video`) and an optional `note`. Twitch playback in teslatube lives only on the `feature/twitch` branch |
 | `radio.schema.json`, `video.schema.json` | JSON Schemas |
 | `scripts/validate.py` | Checks schema, duplicates and safety rules (stdlib only). With `--probe`, it opens each stream like a browser on an https page and reports https / CORS / direct play. Results are printed, not stored |
 

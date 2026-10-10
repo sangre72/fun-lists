@@ -86,25 +86,43 @@ def validate_radio(doc):
     return errs
 
 
+PLATFORM_RE = re.compile(r'^https://(www\.youtube\.com|www\.twitch\.tv)/?$')
+VIDEO_URL_RE = {'youtube': YT_RE, 'twitch': TW_RE}
+
+
 def validate_video(doc):
+    """v2: items[] {id, name, url, type: platform|channel|playlist|video, note?}"""
     errs = []
-    for k in set(doc) - {'$schema', 'version', 'updated', 'youtube', 'twitch'}:
+    for k in set(doc) - {'$schema', 'version', 'updated', 'items'}:
         errs.append(f'video.json: unknown top-level key {k}')
-    if doc.get('version') != 1:
-        errs.append('video.json: version must be 1')
-    seen = set()
-    for kind, rx in (('youtube', YT_RE), ('twitch', TW_RE)):
-        for i, e in enumerate(doc.get(kind, [])):
-            where = f'{kind}[{i}]'
-            for k in set(e) - {'name', 'url', 'kind', 'genre'}:
-                errs.append(f'{where}: unknown key {k}')
-            if not e.get('name') or not e.get('url'):
-                errs.append(f'{where}: missing name/url')
-            elif not rx.match(e['url']):
-                errs.append(f'{where}: url is not a plain public {kind} address')
-            elif e['url'].lower() in seen:
-                errs.append(f'{where}: duplicate url')
-            seen.add(str(e.get('url', '')).lower())
+    if doc.get('version') != 2:
+        errs.append('video.json: version must be 2')
+    ids, urls = set(), set()
+    for i, e in enumerate(doc.get('items', [])):
+        where = f"items[{i}] {e.get('id', '?')}"
+        for k in set(e) - {'id', 'name', 'url', 'type', 'note'}:
+            errs.append(f'{where}: unknown key {k}')
+        for k in ('id', 'name', 'url', 'type'):
+            if not e.get(k):
+                errs.append(f'{where}: missing {k}')
+        if e.get('id') in ids:
+            errs.append(f'{where}: duplicate id')
+        ids.add(e.get('id'))
+        u = str(e.get('url', ''))
+        t = e.get('type')
+        if t == 'platform':
+            if not PLATFORM_RE.match(u):
+                errs.append(f'{where}: platform url must be https://www.youtube.com or https://www.twitch.tv')
+        elif t in ('channel', 'playlist', 'video'):
+            if not (YT_RE.match(u) or TW_RE.match(u)):
+                errs.append(f'{where}: url is not a plain public YouTube/Twitch address')
+        else:
+            errs.append(f'{where}: type must be platform|channel|playlist|video')
+        if u.lower() in urls:
+            errs.append(f'{where}: duplicate url')
+        urls.add(u.lower())
+        if e.get('note') is not None and len(str(e['note'])) > 200:
+            errs.append(f'{where}: note too long')
     return errs
 
 
@@ -198,7 +216,7 @@ def main():
     if errs:
         sys.exit(1)
     st = flat_stations(radio)
-    print(f"ok: radio {len(st)} stations in {len(radio['countries'])} countries; video youtube {len(video['youtube'])}, twitch {len(video['twitch'])}")
+    print(f"ok: radio {len(st)} stations in {len(radio['countries'])} countries; video {len(video['items'])} items")
     if '--probe' in sys.argv:
         probe_all(st)
 
