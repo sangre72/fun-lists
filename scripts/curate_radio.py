@@ -6,6 +6,11 @@ this tool grows radio.json and records what was MEASURED (not what directories c
   python scripts/curate_radio.py build        # 3) select + write radio.json (diff-reviewable), report counts
 
 measure runs at low priority with max 10 parallel probes (do not starve the live server on the same PC).
+
+STATIONS_POLICY.md is enforced here (same rules as scripts/validate.py url_problems): a stream that needs an API key, login,
+per-play token, signed/expiring URL or an app-only resolver is never collected. Directory results that break it are skipped
+at 'candidates'; if one is already in radio.json, or reaches candidates.json / the output anyway, the script stops (exit 2)
+and writes nothing.
 """
 import concurrent.futures as cf
 import json
@@ -61,14 +66,18 @@ def candidates():
     os.makedirs(STAGE, exist_ok=True)
     cur = json.load(open(os.path.join(ROOT, 'radio.json'), encoding='utf-8'))
     out = {}
+    skipped = Counter()
 
     def add(cc, s, src, rb=None):
         url = (s.get('url_resolved') or s.get('url') or '').strip()
         name = (s.get('name') or '').strip()
         if not url.startswith('http') or not name or DPRK.search(name) or cc == 'KP' or (s.get('countrycode') or cc) == 'KP':
             return
-        if re.search(r'[?&](token|session|sid|auth|key)=', url, re.I):
-            return  # no tokens / session urls
+        if url_problems(url, 'url') or re.search(r'[?&](token|session|sid|auth|key)=', url, re.I):
+            if src == 'existing':
+                policy_fail(f'radio.json already lists {s.get("id")} ({url[:80]})', url_problems(url, 'url'))
+            skipped['policy'] += 1
+            return  # STATIONS_POLICY.md: no token / key / signed / session URLs
         key = url
         if key in out:
             return
@@ -91,7 +100,7 @@ def candidates():
             if cc in COUNTRY:
                 add(cc, s, f'tag:{t}', s.get('stationuuid'))
     json.dump(list(out.values()), open(os.path.join(STAGE, 'candidates.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    print('candidates', len(out), Counter(v['country'] for v in out.values()).most_common())
+    print('candidates', len(out), Counter(v['country'] for v in out.values()).most_common(), 'skipped', dict(skipped))
 
 
 def probe(c):
@@ -152,8 +161,17 @@ def measure():
 CODEC_RANK = {'flac': 5, 'alac': 5, 'aac': 3, 'opus': 3, 'vorbis': 2, 'mp3': 2}
 
 
+def policy_fail(what, problems):
+    print(f'STATIONS_POLICY.md violation: {what}: {"; ".join(problems) or "token/session query"}', file=sys.stderr)
+    print('stopped - nothing written. Remove the station; streams that need token renewal are not public streams.', file=sys.stderr)
+    sys.exit(2)
+
+
 def build():
     cands = {c['url']: c for c in json.load(open(os.path.join(STAGE, 'candidates.json'), encoding='utf-8'))}
+    for url, c in cands.items():
+        if url_problems(url, 'url'):
+            policy_fail(f'candidate {c.get("id") or c["name"]}', url_problems(url, 'url'))
     meas = {m['url']: m for m in json.load(open(os.path.join(STAGE, 'measured.json'), encoding='utf-8'))}
     today = date.today().isoformat()
     by_station = {}
@@ -230,6 +248,10 @@ def build():
         ids.add(i)
         row['id'] = i
         groups[cc].append(row)
+    for v in groups.values():
+        for row in v:
+            if url_problems(row['url'], 'url'):
+                policy_fail(f'output row {row["id"]}', url_problems(row['url'], 'url'))
     doc = {'$schema': './radio.schema.json', 'version': 1, 'updated': today,
            'countries': [{'code': cc, 'nameKo': COUNTRY[cc][0], 'flag': COUNTRY[cc][1], 'stations': groups[cc]} for cc in COUNTRY if groups.get(cc)]}
     json.dump(doc, open(os.path.join(ROOT, 'radio.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=2)

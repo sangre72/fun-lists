@@ -2,6 +2,16 @@
 
 **한국어** · [English](#english)
 
+## Policy · 정책
+
+Only **openly published, direct stream URLs**. No stations that need an API key, a login, per-play tokens, signed or expiring URLs, or an app-only resolver (for example the KBS/MBC/SBS token APIs). No DPRK (`KP`) stations. Apps play from this list only — no live external station directory at runtime.
+Streams that need token renewal are not public streams, so we do not collect them.
+
+**공개된 직접 스트림 주소만** 싣습니다. API 키·로그인·재생마다 받는 토큰·서명/만료 주소·앱 전용 리졸버(예: KBS/MBC/SBS 토큰 API)가 필요한 방송은 싣지 않습니다. 북한(`KP`) 방송은 싣지 않습니다. 앱은 이 목록에서만 재생하며, 실행 중에 외부 방송국 목록을 조회하지 않습니다.
+토큰 갱신이 필요한 방송은 공개용이 아니므로 수집하지 않는다.
+
+Details and enforcement · 자세한 규칙과 검사: [STATIONS_POLICY.md](STATIONS_POLICY.md)
+
 인터넷 라디오와 영상 채널의 **공개 주소 목록**입니다. teslatube 앱이 이 저장소의 `radio.json` 을 받아 라디오 화면에 보여 줍니다.
 이 저장소에는 **목록(데이터)만** 있습니다. 소리나 영상을 받거나 다시 보내는 서버는 없고, 앱은 방송사 주소에서 직접 재생합니다.
 라이선스는 **CC0 1.0 (퍼블릭 도메인)** 입니다. 누구나 조건 없이 쓰고, 고치고, fork 할 수 있습니다.
@@ -24,7 +34,8 @@
 
 ## 넣지 않는 것
 
-- 토큰·세션 값이 붙는 주소, 비공식 토큰 API 를 거쳐야 하는 방송
+- 토큰·세션 값이 붙는 주소, 서명·만료 주소, 토큰 API·앱 전용 리졸버를 거쳐야 하는 방송, API 키·로그인이 필요한 방송
+- 북한(`KP`) 방송
 - 중계(relay)·프록시 주소(우리 것이든 남의 것이든)
 - 개인 정보: 즐겨찾기, 시청 기록, PIN, 계정 등
 - 로그인·결제가 필요한 방송
@@ -72,7 +83,8 @@ Health and eligibility (AAR etc.) are computed by the app, not stored in this li
 
 ### Not accepted
 
-- URLs with tokens or session parameters, or stations that need an unofficial token API
+- URLs with tokens or session parameters, signed or expiring URLs, stations that need a token API, an app-only resolver, an API key or a login
+- DPRK (`KP`) stations
 - Relay or proxy URLs (ours or anyone's)
 - Personal data: favourites, history, PINs, accounts
 - Stations that require a login or payment

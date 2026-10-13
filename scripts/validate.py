@@ -7,7 +7,9 @@
 
 Safety rules (a station is rejected if it breaks one):
   - url/homepage are http(s); no credentials (user:pass@), no token-like query keys (token, sig, signature, auth, key,
-    session, jwt, policy, expires...), no relay/proxy hosts ("proxy", "relay", tunnel or app hosts)
+    session, jwt, policy, expires, _lsu_sa_, key-pair-id...), no relay/proxy hosts ("proxy", "relay", tunnel or app hosts)
+  - stream url not on a host that only serves per-play tokens / app-only resolvers (STATIONS_POLICY.md)
+  - no DPRK (KP) stations
   - ids unique, urls unique, countries unique; video URLs must be plain public YouTube/Twitch addresses
 """
 import json
@@ -17,8 +19,11 @@ import sys
 import urllib.parse
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-TOKEN_KEYS = re.compile(r'(^|[_-])(token|sig|signature|auth|authorization|key|apikey|session|sess|jwt|policy|expires|hdnts|hmac)($|[_-])', re.I)
+TOKEN_KEYS = re.compile(r'(^|[_-])(token|sig|signature|auth|authorization|key|apikey|session|sess|jwt|policy|expires|hdnts|hdnea|hmac|wmsauth)($|[_-])|^_lsu_sa_$|^key-pair-id$', re.I)
 BAD_HOSTS = re.compile(r'(\.trycloudflare\.com$|(^|\.)proxy\.|relay|teslatube)', re.I)
+# STATIONS_POLICY.md: hosts whose streams are only reachable through per-play tokens or app-only resolvers / scraping relays
+TOKEN_HOSTS = re.compile(r'((^|\.)bsod\.kr$|(^|\.)gscdn\.kbs\.co\.kr$|(^|\.)imbc\.com$|(^|\.)sbs\.co\.kr$)', re.I)
+DPRK = re.compile(r'pyongyang|평양|조선중앙|korean central broadcasting|kcbs|voice of korea|조선의 ?소리|통일의 ?메아리', re.I)
 ID_RE = re.compile(r'^[a-z]{2}-[a-z0-9-]{2,40}$')
 
 
@@ -34,6 +39,8 @@ def url_problems(u, field):
         p.append(f'{field}: credentials in URL')
     if s.hostname and BAD_HOSTS.search(s.hostname):
         p.append(f'{field}: relay/proxy or our own host ({s.hostname})')
+    if field == 'url' and s.hostname and TOKEN_HOSTS.search(s.hostname):
+        p.append(f'{field}: host needs per-play tokens or an app-only resolver ({s.hostname}) - see STATIONS_POLICY.md')
     for k, _ in urllib.parse.parse_qsl(s.query, keep_blank_values=True):
         if TOKEN_KEYS.search(k):
             p.append(f'{field}: token-like query key "{k}"')
@@ -60,6 +67,8 @@ def validate_radio(doc):
             errs.append(f'{cw}: unknown key {k}')
         if not re.fullmatch(r'[A-Z]{2}', str(c.get('code', ''))):
             errs.append(f'{cw}: bad country code')
+        if c.get('code') == 'KP':
+            errs.append(f'{cw}: DPRK stations are not listed (STATIONS_POLICY.md)')
         if c.get('code') in codes:
             errs.append(f'{cw}: duplicate country')
         codes.add(c.get('code'))
@@ -72,6 +81,8 @@ def validate_radio(doc):
                     errs.append(f'{where}: missing {k}')
             if s.get('id') and not ID_RE.match(s['id']):
                 errs.append(f'{where}: bad id format')
+            if DPRK.search(str(s.get('name', ''))):
+                errs.append(f'{where}: DPRK stations are not listed (STATIONS_POLICY.md)')
             if s.get('id') in ids:
                 errs.append(f'{where}: duplicate id')
             ids.add(s.get('id'))

@@ -181,33 +181,6 @@
           "measured": "2026-10-13"
         },
         {
-          "id": "kr-mbc-fm4u",
-          "name": "MBC FM4U",
-          "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=65C1361543C331F45047852F36D12B4705053B35EA0B625432D058a7D6B63DE6D6a0D35E39C26543C03236D1A8b6017170391579C4F019DE8A123E69A311DC4E87F743035632272CDF00ED2EE405060091AFA5045AFE416AF8C89FC81C684F11888B1662481D985F59B7F54A01D79520",
-          "homepage": "http://www.imbc.com/",
-          "codec": "HE-AAC",
-          "bitrateKbps": 65,
-          "sampleRate": 44100,
-          "channels": 2,
-          "language": "korean",
-          "logo": "http://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png",
-          "icy": false,
-          "measured": "2026-10-13"
-        },
-        {
-          "id": "kr-mbc-fm",
-          "name": "MBC FM",
-          "url": "https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6D610E1003733314DF4FA54232319C4E45173DE54D07D2333C60CEaF66D839C6B6aF438D3AA2AD4A50A93FC16AbC813DB7031CA3D0AE010A883CCE71009E18094E708720F61F8290E51137E45067ED96F65FCDB46118223C48DC2C5A0E846B83B15EEF13EB24A4B07AE39C1800951A25",
-          "homepage": "http://www.imbc.com/",
-          "codec": "HE-AAC",
-          "bitrateKbps": 65,
-          "sampleRate": 44100,
-          "channels": 2,
-          "language": "korean",
-          "icy": false,
-          "measured": "2026-10-13"
-        },
-        {
           "id": "kr-arirang-radio",
           "name": "Arirang Radio",
           "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
@@ -391,24 +364,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "korean",
-          "icy": false,
-          "measured": "2026-10-13"
-        },
-        {
-          "id": "kr-kbs-classic-fm",
-          "name": "KBS Classic FM",
-          "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=1fm",
-          "genre": "classic",
-          "homepage": "https://radio.kbs.co.kr/",
-          "codec": "AAC",
-          "bitrateKbps": 195,
-          "sampleRate": 48000,
-          "channels": 2,
-          "language": "korea",
-          "tags": [
-            "classic"
-          ],
-          "logo": "https://images2.imgbox.com/da/9b/4bV5pJxL_o.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -622,19 +577,6 @@
           "measured": "2026-10-13"
         },
         {
-          "id": "kr-kbs-happyfm",
-          "name": "KBS HappyFM",
-          "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=2radio&bora=true",
-          "homepage": "https://www.kbs.co.kr/",
-          "codec": "AAC",
-          "sampleRate": 48000,
-          "channels": 2,
-          "language": "korean",
-          "logo": "https://i.imgur.com/NyGnXcp.png",
-          "icy": false,
-          "measured": "2026-10-13"
-        },
-        {
           "id": "kr-mapofm",
           "name": "MapoFM",
           "url": "http://onair.mapofm.net/mapofm",
@@ -644,23 +586,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "icy": true,
-          "measured": "2026-10-13"
-        },
-        {
-          "id": "kr-bsod-mbc-mini-all-that-music",
-          "name": "(BSOD) MBC mini All-That-Music",
-          "url": "https://radio.bsod.kr/stream/?stn=mbc&ch=chm",
-          "genre": "k-pop",
-          "homepage": "https://radio.bsod.kr/",
-          "codec": "AAC",
-          "bitrateKbps": 67,
-          "sampleRate": 44100,
-          "channels": 2,
-          "language": "korean",
-          "tags": [
-            "k-pop"
-          ],
-          "icy": false,
           "measured": "2026-10-13"
         },
         {
@@ -677,19 +602,6 @@
           "measured": "2026-10-13"
         },
         {
-          "id": "kr-kbs-2fm",
-          "name": "KBS 2FM",
-          "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=2fm",
-          "homepage": "http://kbs.co.kr/",
-          "codec": "AAC",
-          "bitrateKbps": 196,
-          "sampleRate": 48000,
-          "channels": 2,
-          "language": "korean",
-          "icy": false,
-          "measured": "2026-10-13"
-        },
-        {
           "id": "kr-ebs-fm-104-5",
           "name": "EBS FM 104.5",
           "url": "http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8",
@@ -698,19 +610,6 @@
           "bitrateKbps": 128,
           "sampleRate": 44100,
           "channels": 2,
-          "icy": false,
-          "measured": "2026-10-13"
-        },
-        {
-          "id": "kr-kbs-1radio",
-          "name": "KBS 1RADIO",
-          "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=1radio",
-          "homepage": "http://kbs.co.kr/",
-          "codec": "AAC",
-          "bitrateKbps": 195,
-          "sampleRate": 48000,
-          "channels": 2,
-          "language": "korean",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -728,17 +627,6 @@
             "rock"
           ],
           "icy": true,
-          "measured": "2026-10-13"
-        },
-        {
-          "id": "kr-cbs-music-fm-2",
-          "name": "CBS Music FM",
-          "url": "https://radio.bsod.kr/stream/?stn=cbs&ch=mfmc",
-          "homepage": "http://www.cbs.co.kr/",
-          "codec": "HE-AAC",
-          "sampleRate": 44100,
-          "channels": 2,
-          "icy": false,
           "measured": "2026-10-13"
         },
         {
@@ -776,40 +664,6 @@
             "religious",
             "worship"
           ],
-          "icy": false,
-          "measured": "2026-10-13"
-        },
-        {
-          "id": "kr-cbs-std-fm",
-          "name": "CBS Std FM",
-          "url": "https://radio.bsod.kr/stream/?stn=cbs&ch=sfm",
-          "homepage": "https://www.cbs.co.kr/",
-          "codec": "HE-AAC",
-          "sampleRate": 44100,
-          "channels": 2,
-          "icy": false,
-          "measured": "2026-10-13"
-        },
-        {
-          "id": "kr-kbs-3radio",
-          "name": "KBS 3radio",
-          "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=3radio",
-          "homepage": "https://www.kbs.co.kr/",
-          "codec": "AAC",
-          "bitrateKbps": 193,
-          "sampleRate": 48000,
-          "channels": 2,
-          "icy": false,
-          "measured": "2026-10-13"
-        },
-        {
-          "id": "kr-cbs-joy-fm",
-          "name": "CBS Joy FM",
-          "url": "https://radio.bsod.kr/stream/?stn=cbs&ch=joy4u",
-          "homepage": "https://www.cbs.co.kr/",
-          "codec": "HE-AAC",
-          "sampleRate": 44100,
-          "channels": 2,
           "icy": false,
           "measured": "2026-10-13"
         }
