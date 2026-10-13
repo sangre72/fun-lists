@@ -42,7 +42,7 @@ def url_problems(u, field):
 
 ALLOWED_RADIO_TOP = {'$schema', 'version', 'updated', 'countries'}
 ALLOWED_COUNTRY = {'code', 'nameKo', 'flag', 'stations'}
-ALLOWED_RADIO_ST = {'id', 'name', 'genre', 'url', 'homepage', 'lossless', 'codec', 'bitrateKbps'}
+ALLOWED_RADIO_ST = {'id', 'name', 'genre', 'url', 'homepage', 'lossless', 'codec', 'bitrateKbps', 'sampleRate', 'channels', 'language', 'tags', 'logo', 'icy', 'measured'}  # a624 measured fields
 YT_RE = re.compile(r'^https://(www\.|m\.)?(youtube\.com/(@[A-Za-z0-9._-]+|channel/[A-Za-z0-9_-]+|playlist\?list=[A-Za-z0-9_-]+|watch\?v=[A-Za-z0-9_-]{11})|youtu\.be/[A-Za-z0-9_-]{11})$')
 TW_RE = re.compile(r'^https://(www\.)?twitch\.tv/[A-Za-z0-9_]{3,25}$')
 
