@@ -65,6 +65,12 @@ Station data: Radio Browser (https://www.radio-browser.info), used under its fre
 CC0 은 이 저장소에서 **우리가 만든 부분**(선별·측정값·형식·스크립트)에만 적용됩니다. 방송국 이름·홈페이지·스트림 주소 자체의 권리는 각 방송사에 있습니다. 로고 이미지 주소는 싣지 않습니다.
 CC0 covers only **our own work** here (curation, measurements, schema, scripts). Station names, homepages and stream URLs belong to their broadcasters. No logo image URLs are listed.
 
+## 이용 조건 때문에 뺀 방송 · Removed for broadcaster terms (2026-10-14)
+
+- BBC: 외부 플레이어 사용을 막으므로 모두 뺐습니다. BBC restricts its streams to approved third parties, so all BBC stations were removed.
+- Radio France (France Inter, franceinfo, France Culture, France Musique, FIP, Mouv', ici): 서면 허가 없이 외부 앱이 목록으로 제공하는 것을 막으므로 모두 뺐습니다. Radio France forbids third-party apps from listing its streams without written permission, so all were removed.
+- 출처가 확인되지 않는 재송출(relay) 주소도 뺐습니다. Restreams of unknown origin were removed.
+
 ---
 
 ## English
