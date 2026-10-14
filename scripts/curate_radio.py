@@ -223,8 +223,7 @@ def build():
             row['language'] = c['language'][:30]
         if c.get('tags'):
             row['tags'] = [t[:24] for t in c['tags'][:6]]
-        if c.get('logo') and str(c['logo']).startswith('http'):
-            row['logo'] = c['logo']
+        # a682 (user): no logo URLs in the list (third-party hosted images); homepage + stream URL only
         row['icy'] = bool(m.get('icy'))
         row['measured'] = today
         by_station[key] = (score, row, rank)

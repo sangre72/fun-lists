@@ -57,6 +57,14 @@ Details and enforcement · 자세한 규칙과 검사: [STATIONS_POLICY.md](STAT
 
 스트림 자체의 권리는 각 방송사·채널에 있습니다. 이 목록은 공개된 주소를 모은 것이며, 방송을 재배포하지 않습니다. 이 설명은 법률 자문이 아닙니다.
 
+## 출처 · Attribution
+
+Station data: Radio Browser (https://www.radio-browser.info), used under its free-use terms; stream URLs belong to their broadcasters.
+방송국 데이터 출처: Radio Browser(radio-browser.info), 자유 이용 조건에 따라 사용합니다. 스트림 주소의 권리는 각 방송사에 있습니다.
+
+CC0 은 이 저장소에서 **우리가 만든 부분**(선별·측정값·형식·스크립트)에만 적용됩니다. 방송국 이름·홈페이지·스트림 주소 자체의 권리는 각 방송사에 있습니다. 로고 이미지 주소는 싣지 않습니다.
+CC0 covers only **our own work** here (curation, measurements, schema, scripts). Station names, homepages and stream URLs belong to their broadcasters. No logo image URLs are listed.
+
 ---
 
 ## English

@@ -158,7 +158,6 @@
           "tags": [
             "kpop"
           ],
-          "logo": "https://listen.moe/favicon.ico",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -188,7 +187,6 @@
           "codec": "AAC",
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://arirang.com/logo192.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -206,7 +204,6 @@
           "tags": [
             "music"
           ],
-          "logo": "https://pic.qtfm.cn/2024/0524/20240524014731.gif",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -296,7 +293,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "korean",
-          "logo": "https://play-lh.googleusercontent.com/EQd7zsUgIsdtDSAldbre7DT0V2vsW-As6J51zcMnfycMpyJRgFIO311XvDExg-g-TA=w480-h960",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -381,7 +377,6 @@
           "tags": [
             "kpop"
           ],
-          "logo": "https://listen.moe/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -395,7 +390,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "korean",
-          "logo": "https://static.mytuner.mobi/media/tvos_radios/694/gongdongceradio-jeonjufm-935mhz.70bc301e.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -411,7 +405,6 @@
           "tags": [
             "pop"
           ],
-          "logo": "https://images.app.goo.gl/ace67skP1qBC1abH8",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -447,7 +440,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "korean",
-          "logo": "https://cdn-images-3.listennotes.com/podcasts/scn-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-891mhz-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-NrySpdFHVJk-a9nswMfkelH.1400x1400.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -465,7 +457,6 @@
           "tags": [
             "entertainment"
           ],
-          "logo": "https://sky24.inlive.co.kr/images/9.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -492,7 +483,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "korean",
-          "logo": "https://static-media.streema.com/media/cache/04/91/049137633fcae422618f5e45e770d603.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -534,7 +524,6 @@
           "tags": [
             "full service"
           ],
-          "logo": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -552,7 +541,6 @@
           "tags": [
             "news"
           ],
-          "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-KO.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -572,7 +560,6 @@
             "kpop",
             "pop music"
           ],
-          "logo": "https://afngo.net/static/media/Humphreys.80cba9f67149f1bf7018.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -643,7 +630,6 @@
           "tags": [
             "kpop"
           ],
-          "logo": "https://092007.xyz/apple-touch-icon.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -691,7 +677,6 @@
             "public radio",
             "radio france"
           ],
-          "logo": "https://www.fip.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -712,7 +697,6 @@
             "radio france",
             "world music"
           ],
-          "logo": "https://www.fip.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -732,7 +716,6 @@
             "jazz",
             "lounge"
           ],
-          "logo": "http://www.fipradio.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -750,7 +733,6 @@
           "tags": [
             "reggae"
           ],
-          "logo": "http://www.fipradio.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -771,7 +753,6 @@
             "public radio",
             "radio france"
           ],
-          "logo": "https://www.fip.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -791,7 +772,6 @@
             "public radio",
             "radio france"
           ],
-          "logo": "https://www.radiofrance.fr/s3/cruiser-production/2023/03/3a1422a4-6f1f-4e17-874c-bad21e67f39b/300x300_sc_fip-avatar.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -832,7 +812,6 @@
             "public radio",
             "radio france"
           ],
-          "logo": "https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d135f74f-6c96-4b6f-90ac-2d3b6ca96b53/200x200_fmwebradiosnormalcontemp.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -873,7 +852,6 @@
             "public radio",
             "radio france"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/Le_Mouv%27_logo_2008.svg/1024px-Le_Mouv%27_logo_2008.svg.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -894,7 +872,6 @@
             "public radio",
             "radio france"
           ],
-          "logo": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/e061141c-f6b4-4502-ba43-f6ec693a049b/200x200_fip-nouveau_ok.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -913,7 +890,6 @@
             "hip hop",
             "radio france"
           ],
-          "logo": "https://www.radiofrance.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -932,7 +908,6 @@
             "music",
             "only music"
           ],
-          "logo": "http://www.fipradio.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -987,7 +962,6 @@
           "tags": [
             "régionale"
           ],
-          "logo": "https://www.francebleu.fr/images/logo-ici.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1006,7 +980,6 @@
             "metal",
             "thrash"
           ],
-          "logo": "https://www.radiofrance.fr/s3/cruiser-production/2022/07/160994f8-296b-4cd8-97a0-34c9111cdd9d/400x400_fip-metal-20222x_2.webp",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1043,7 +1016,6 @@
           "tags": [
             "jazz"
           ],
-          "logo": "https://www.radiofrance.fr/s3/cruiser-production/2019/06/840a4431-0db0-4a94-aa28-53f8de011ab6/300x300_fip-jazz-01.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1076,7 +1048,6 @@
           "bitrateKbps": 195,
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://cdn-profiles.tunein.com/s262538/images/logod.png?t=636966437370000000",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1111,7 +1082,6 @@
           "tags": [
             "piano"
           ],
-          "logo": "https://www.radiofrance.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1124,7 +1094,6 @@
           "bitrateKbps": 195,
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://cdn-profiles.tunein.com/s262533/images/logod.png?t=636966437720000000",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1144,7 +1113,6 @@
             "fip",
             "french"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/2048px-FIP_logo_2021.svg.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1185,7 +1153,6 @@
             "culture",
             "talk & speech"
           ],
-          "logo": "https://fr.wikipedia.org/wiki/Ici_et_Maintenant_!#/media/Fichier:RIM.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -1199,7 +1166,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "french",
-          "logo": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/06/2eb99120-ff28-414d-a805-c354c3967edf/300x300_sc_fi-webradio-c3b2.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1220,7 +1186,6 @@
             "#public radio",
             "#radio france"
           ],
-          "logo": "http://fip.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1255,7 +1220,6 @@
             "radio france",
             "youth"
           ],
-          "logo": "http://www.mouv.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1273,7 +1237,6 @@
           "tags": [
             "variété française 80's 9"
           ],
-          "logo": "https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1293,7 +1256,6 @@
             "music",
             "radio france"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/960px-FIP_logo_2021.svg.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -1334,7 +1296,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "french",
-          "logo": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/06/2eb99120-ff28-414d-a805-c354c3967edf/300x300_sc_fi-webradio-c3b2.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1382,7 +1343,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "french",
-          "logo": "https://www.radiofrance.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1400,7 +1360,6 @@
             "kids",
             "musiques des enfants"
           ],
-          "logo": "https://www.radiofrance.fr/pikapi/images/cbfde3c3-8213-45a6-ac89-b6a3b521025c/200x200",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1420,7 +1379,6 @@
             "public radio",
             "radio france"
           ],
-          "logo": "https://www.radiofrance.fr/client/immutable/assets/francemusique-rect.CE3jFcTq.svg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1439,7 +1397,6 @@
             "generalist",
             "information"
           ],
-          "logo": "https://fr.m.wikipedia.org/w/index.php?title=Fichier:France_Inter_logo_2021.svg&lang=fr",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1475,7 +1432,6 @@
             "kids",
             "musiques des enfants"
           ],
-          "logo": "https://www.radiofrance.fr/pikapi/images/cbfde3c3-8213-45a6-ac89-b6a3b521025c/200x200",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1489,7 +1445,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "french",
-          "logo": "https://www.francebleu.fr/favicon56.ico",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1551,7 +1506,6 @@
             "pop",
             "pop rock"
           ],
-          "logo": "https://media.tunedradios.com/w_250,h_250,q_40/static/radio/5848/logo/c380faefc9103fe11ade0c95cd3c0959.webp",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1563,7 +1517,6 @@
           "codec": "AAC",
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://france3-regions.francetvinfo.fr/image/thQ-APUfopLbhRQ-a29GfT_Hmb8/1398x819/regions/2024/11/04/capture-6728a8716f4ef458287475.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1604,7 +1557,6 @@
           "bitrateKbps": 128,
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://charte.radiofrance.fr/images/ici/ici-avatar.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1650,7 +1602,6 @@
           "codec": "AAC",
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://www.lalettre.pro/photo/art/grande/20161528-23753524.jpg?v=1518544162",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1668,7 +1619,6 @@
           "tags": [
             "various music"
           ],
-          "logo": "https://www.ici.fr/images/favicon-168.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1818,7 +1768,6 @@
             "public radio",
             "radio france"
           ],
-          "logo": "https://www.radiofrance.fr/external/favicons/mouv/favicon.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1830,7 +1779,6 @@
           "codec": "AAC",
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://www.ici.fr/favicon56.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -1866,7 +1814,6 @@
             "blues",
             "jazz"
           ],
-          "logo": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -1885,7 +1832,6 @@
             "news",
             "world music"
           ],
-          "logo": "http://www.rfi.fr/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -1924,7 +1870,6 @@
             "jazz",
             "soul"
           ],
-          "logo": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -1946,7 +1891,6 @@
             "pop dance",
             "pop music"
           ],
-          "logo": "https://eurodance90.fr/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -1965,7 +1909,6 @@
             "music",
             "reggae"
           ],
-          "logo": "https://www.lagrosseradio.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2004,7 +1947,6 @@
             "pop",
             "world music"
           ],
-          "logo": "https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2023,7 +1965,6 @@
             "classical",
             "jazz"
           ],
-          "logo": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2037,7 +1978,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "french",
-          "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2056,7 +1996,6 @@
             "information",
             "news"
           ],
-          "logo": "https://www.radio.fr/images/broadcasts/76/27/105095/3/c300.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2074,7 +2013,6 @@
           "tags": [
             "latin"
           ],
-          "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2092,7 +2030,6 @@
           "tags": [
             "funk"
           ],
-          "logo": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2110,7 +2047,6 @@
           "tags": [
             "80s"
           ],
-          "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2124,7 +2060,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "french",
-          "logo": "http://generations.fr/media/radio/thumb/90x90_rnb.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2161,7 +2096,6 @@
             "latin",
             "reggaeton"
           ],
-          "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2180,7 +2114,6 @@
             "jazz",
             "women"
           ],
-          "logo": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2193,7 +2126,6 @@
           "bitrateKbps": 128,
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2225,7 +2157,6 @@
             "yoga",
             "zen"
           ],
-          "logo": "https://www.vip-radios.fm/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2239,7 +2170,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "french",
-          "logo": "https://generations.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2273,7 +2203,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "french",
-          "logo": "https://generations.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2291,7 +2220,6 @@
           "tags": [
             "sports news"
           ],
-          "logo": "https://rmc.bfmtv.com/android-icon-192x192.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2311,7 +2239,6 @@
             "jazz",
             "swing"
           ],
-          "logo": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2325,7 +2252,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "french",
-          "logo": "http://www.kissfm.fr/wp-content/uploads/2023/09/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2343,7 +2269,6 @@
           "tags": [
             "soul"
           ],
-          "logo": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2357,7 +2282,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "french",
-          "logo": "http://www.beurfm.net/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2378,7 +2302,6 @@
             "radio france",
             "reggae"
           ],
-          "logo": "https://www.fip.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -2398,7 +2321,6 @@
             "lofi",
             "radio france"
           ],
-          "logo": "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -2416,7 +2338,6 @@
           "tags": [
             "rock"
           ],
-          "logo": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/images/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2434,7 +2355,6 @@
           "tags": [
             "latin"
           ],
-          "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2452,7 +2372,6 @@
           "tags": [
             "pop rock"
           ],
-          "logo": "https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/favicons/favicon128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2471,7 +2390,6 @@
             "jazz",
             "piano"
           ],
-          "logo": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2489,7 +2407,6 @@
           "tags": [
             "progressive rock"
           ],
-          "logo": "https://www.morow.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2503,7 +2420,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "french",
-          "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2541,7 +2457,6 @@
             "latin jazz",
             "latino"
           ],
-          "logo": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2562,7 +2477,6 @@
             "public radio",
             "radio france"
           ],
-          "logo": "https://www.fip.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -2584,7 +2498,6 @@
             "private",
             "talk"
           ],
-          "logo": "https://www.sudradio.fr/wp-content/uploads/2019/06/cropped-favicon-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2598,7 +2511,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "french",
-          "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2640,7 +2552,6 @@
             "radio france",
             "rock"
           ],
-          "logo": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -2658,7 +2569,6 @@
           "tags": [
             "60s"
           ],
-          "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2676,7 +2586,6 @@
           "tags": [
             "hip-hop and rap oldies"
           ],
-          "logo": "https://skyrock.fm/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2702,7 +2611,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "french",
-          "logo": "https://www.pulsradio.com/apple-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2739,7 +2647,6 @@
             "easy listening",
             "electro"
           ],
-          "logo": "http://www.fipradio.fr/dist/favicons/logo-120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -2757,7 +2664,6 @@
           "tags": [
             "reggae"
           ],
-          "logo": "https://generations.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2775,7 +2681,6 @@
             "drum n bass",
             "drum&bass"
           ],
-          "logo": "https://www.algorythmeradio.com/assets/images/icon-algo.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2828,7 +2733,6 @@
           "tags": [
             "lounge"
           ],
-          "logo": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2848,7 +2752,6 @@
             "lounge",
             "relax"
           ],
-          "logo": "http://www.vip-radios.fm/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2866,7 +2769,6 @@
           "tags": [
             "chansons françaises"
           ],
-          "logo": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -2892,7 +2794,6 @@
             "news",
             "world news"
           ],
-          "logo": "https://static-assets.npr.org/static/images/favicon/favicon-32x32.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -2910,7 +2811,6 @@
           "tags": [
             "news"
           ],
-          "logo": "https://media.wnyc.org/i/300/300/c/80/1/wnyc_square_logo.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2947,7 +2847,6 @@
           "tags": [
             "public radio"
           ],
-          "logo": "https://wosu.org/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2967,7 +2866,6 @@
             "los angeles",
             "public radio"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/KUSC_Logo.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -2987,7 +2885,6 @@
             "classical california",
             "los angeles"
           ],
-          "logo": "https://www.kusc.org/icons/kusc/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3004,7 +2901,6 @@
           "tags": [
             "talk & speech"
           ],
-          "logo": "https://www.kqed.org/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3043,7 +2939,6 @@
           "tags": [
             "operavore"
           ],
-          "logo": "https://media.wnyc.org/i/300/300/c/80/1/wnyc_square_logo.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3061,7 +2956,6 @@
           "tags": [
             "classical"
           ],
-          "logo": "https://www.kusc.org/icons/kusc/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3081,7 +2975,6 @@
             "new york city",
             "new york public radio"
           ],
-          "logo": "https://media2.wnyc.org/i/300/300/c/80/1/wqxr_square_logo.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3099,7 +2992,6 @@
           "tags": [
             "classical"
           ],
-          "logo": "https://media.wnyc.org/i/300/300/c/80/1/wnyc_square_logo.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3133,7 +3025,6 @@
           "bitrateKbps": 128,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://www.wpr.org/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3156,7 +3047,6 @@
             "indie",
             "jazz"
           ],
-          "logo": "https://www.kexp.org/static/assets/img/logo-black.svg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3176,7 +3066,6 @@
             "new york city",
             "public radio"
           ],
-          "logo": "https://media.wnyc.org/i/500/500/c/80/1/wqxr_1_1.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3217,7 +3106,6 @@
             "public",
             "rock"
           ],
-          "logo": "https://www.wuky.org/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3237,7 +3125,6 @@
             "news",
             "npr"
           ],
-          "logo": "https://wusf.org/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3256,7 +3143,6 @@
             "news",
             "npr"
           ],
-          "logo": "https://knpr.org/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3276,7 +3162,6 @@
             "holiday",
             "holiday music"
           ],
-          "logo": "https://media.wnyc.org/i/1401/1400/l/80/2020/11/WQXRHolidayChannel1.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3294,7 +3179,6 @@
           "tags": [
             "public radio"
           ],
-          "logo": "https://npr.brightspotcdn.com/dims4/default/ea5bbbc/2147483647/strip/true/crop/309x109+0+0/resize/534x188!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F3e%2F88537dc049b58f35f72bb86596b1%2Fnprillinois.org---91.9-UIS-logo---4c-%28horiz%29-a.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3311,7 +3195,6 @@
           "tags": [
             "university radio"
           ],
-          "logo": "https://npr.brightspotcdn.com/dims4/default/5a8f3ae/2147483647/strip/true/crop/293x150+0+0/resize/468x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fktep%2Ffiles%2F201506%2Flogo_fid.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3330,7 +3213,6 @@
             "christmas",
             "classical"
           ],
-          "logo": "https://www.kusc.org/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F8usdt07j8s00%2F5npLnrC7hFU89FH5Dmbjf4%2F4d2efd93dcd0de52f2d4874761e8f18a%2FChristmas_comp.png&w=1440&q=75",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3347,7 +3229,6 @@
           "tags": [
             "news"
           ],
-          "logo": "https://www.google.com/search?q=wnyc+logo&client=ms-android-samsung-rvo1&sca_esv=560376192&tbm=isch&prmd=inv&sxsrf=AB5stBirrRLCEy5EixqlSfngVwQYvhFe1Q:1693083894883&source=lnms&sa=X&ved=2ahUKEwjTloSBnfuAAxXmavEDHfieAj0Q_AUoAXoECAMQAQ&biw=412&bih=717&dpr=2.63#imgrc=7X0w4rpwW2Y9iM",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3364,7 +3245,6 @@
           "tags": [
             "classical"
           ],
-          "logo": "https://www.nepm.org/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3381,7 +3261,6 @@
           "tags": [
             "misc"
           ],
-          "logo": "https://image.pbs.org/bento3-prod/wnin-bento-live-pbs/Home/4f94829b88_WNIN%20TSPM%20blue%20alpha%20(2).png?resize=767x,no-scale-up",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3427,7 +3306,6 @@
           "tags": [
             "talk & speech"
           ],
-          "logo": "https://npr.brightspotcdn.com/dims4/default/c9a0ba4/2147483647/strip/true/crop/684x252+0+0/resize/534x196!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwutc%2Ffiles%2F201806%2FWUTC-18.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3444,7 +3322,6 @@
           "tags": [
             "talk & speech"
           ],
-          "logo": "https://www.wvpe.org/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3474,7 +3351,6 @@
           "bitrateKbps": 128,
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://wesa.fm/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3487,7 +3363,6 @@
           "bitrateKbps": 56,
           "sampleRate": 44100,
           "channels": 1,
-          "logo": "https://npr.brightspotcdn.com/dims4/default/a1ee480/2147483647/strip/true/crop/1851x441+0+0/resize/534x128!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2Fe3%2Fc6e33fe549b7bca8d77693d5229f%2Fnpr-il-23-4c-no-space.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3504,7 +3379,6 @@
           "tags": [
             "university radio"
           ],
-          "logo": "https://www.wfdd.org/themes/custom/wfdd/logo.svg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3521,7 +3395,6 @@
           "tags": [
             "university radio"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/WAER_88.3.png/440px-WAER_88.3.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3564,7 +3437,6 @@
             "npr",
             "talk"
           ],
-          "logo": "https://i.iheart.com/v3/re/assets.streams/67d07fe6ec13cba16d9784c5?ops=fit(960%2C960)%2Cresize(0%2C390)",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3582,7 +3454,6 @@
           "tags": [
             "news"
           ],
-          "logo": "https://www.kuer.org/favicon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3605,7 +3476,6 @@
             "dj mixes",
             "dj remix"
           ],
-          "logo": "https://www.kexp.org/static/assets/img/logo-header.svg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3654,7 +3524,6 @@
             "public radio",
             "talk"
           ],
-          "logo": "https://media.npr.org/chrome/favicon/favicon-180x180.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -3667,7 +3536,6 @@
           "bitrateKbps": 64,
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://bento.pbs.org/prod/filer_public/lehighvalleypublicmedia/lvpm-header-footer-logos/4d51b842bc_wlvr-logo-white-transparent.svg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3720,7 +3588,6 @@
             "news",
             "news talk"
           ],
-          "logo": "https://asset.brandfetch.io/idQPhN-lSw/idojwfAi5K.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -3928,7 +3795,6 @@
             "public radio",
             "san francisco"
           ],
-          "logo": "https://asset.brandfetch.io/idQPhN-lSw/idojwfAi5K.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3951,7 +3817,6 @@
             "non-commercial",
             "paradise"
           ],
-          "logo": "https://radioparadise.com/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3972,7 +3837,6 @@
             "contemporary christian",
             "jesus"
           ],
-          "logo": "https://icecast.walmradio.com:8443/walm.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -3992,7 +3856,6 @@
             "jazz",
             "smooth jazz"
           ],
-          "logo": "http://101smoothjazz.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4035,7 +3898,6 @@
             "rnb",
             "waynesboro"
           ],
-          "logo": "http://www.181.fm/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4054,7 +3916,6 @@
             "classical",
             "relax"
           ],
-          "logo": "http://www.yourclassical.org/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4095,7 +3956,6 @@
           "tags": [
             "classical"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24941q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4114,7 +3974,6 @@
             "drama",
             "entertainment"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s6839q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4131,7 +3990,6 @@
           "tags": [
             "alternative"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s44491q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4149,7 +4007,6 @@
             "dance",
             "pop"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4167,7 +4024,6 @@
             "black music",
             "pop"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s20277q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4179,7 +4035,6 @@
           "codec": "HE-AAC",
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24940q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4198,7 +4053,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_four/colour_default.svg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4220,7 +4074,6 @@
             "sports",
             "talk"
           ],
-          "logo": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4240,7 +4093,6 @@
             "sports",
             "talk"
           ],
-          "logo": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4257,7 +4109,6 @@
           "tags": [
             "pop"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4279,7 +4130,6 @@
             "jazz",
             "opera"
           ],
-          "logo": "https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_three/colour_default.svg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4298,7 +4148,6 @@
             "drama",
             "entertainment"
           ],
-          "logo": "https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_four_extra/colour_default.svg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4311,7 +4160,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "english uk",
-          "logo": "https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_ulster/colour_default.svg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4329,7 +4177,6 @@
             "anthems",
             "pop"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4341,7 +4188,6 @@
           "codec": "HE-AAC",
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4360,7 +4206,6 @@
             "relax",
             "unwind"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24941q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4380,7 +4225,6 @@
             "sports",
             "talk"
           ],
-          "logo": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4402,7 +4246,6 @@
             "sports",
             "talk"
           ],
-          "logo": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4422,7 +4265,6 @@
             "sports",
             "talk"
           ],
-          "logo": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4445,7 +4287,6 @@
             "dab+",
             "dance"
           ],
-          "logo": "https://cdn-profiles.tunein.com/s347238/images/logod.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4462,7 +4303,6 @@
           "tags": [
             "various"
           ],
-          "logo": "https://sounds.files.bbci.co.uk/3.5.0/services/bbc_radio_leeds/blocks-colour_600x600.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4474,7 +4314,6 @@
           "codec": "HE-AAC",
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://static.mytuner.mobi/media/tvos_radios/U3M5n4tQDu.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4487,7 +4326,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "english",
-          "logo": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -4595,7 +4433,6 @@
           "tags": [
             "political talk"
           ],
-          "logo": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4615,7 +4452,6 @@
             "pop",
             "rock"
           ],
-          "logo": "http://www.radiocaroline.co.uk/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4637,7 +4473,6 @@
             "public radio",
             "variety"
           ],
-          "logo": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4657,7 +4492,6 @@
             "hot adult contemporary",
             "london"
           ],
-          "logo": "https://cdn-profiles.tunein.com/s2846/images/logoq.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4675,7 +4509,6 @@
             "news talk",
             "talk"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s220687q.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4695,7 +4528,6 @@
             "smooth",
             "soft music"
           ],
-          "logo": "http://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4718,7 +4550,6 @@
             "indie pop",
             "indie rock"
           ],
-          "logo": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4737,7 +4568,6 @@
             "news",
             "talk"
           ],
-          "logo": "http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4780,7 +4610,6 @@
             "public radio",
             "variety"
           ],
-          "logo": "https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4799,7 +4628,6 @@
             "classic fm",
             "classical"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/472px-Classic_FM_logo.svg.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4821,7 +4649,6 @@
             "public radio",
             "variety"
           ],
-          "logo": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4843,7 +4670,6 @@
             "public radio",
             "variety"
           ],
-          "logo": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4863,7 +4689,6 @@
             "hiphop",
             "electronic"
           ],
-          "logo": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4875,7 +4700,6 @@
           "bitrateKbps": 48,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://images-na.ssl-images-amazon.com/images/I/61wHBPSryzL.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4908,7 +4732,6 @@
             "news",
             "talk"
           ],
-          "logo": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4927,7 +4750,6 @@
             "adult contemporary",
             "pop rock"
           ],
-          "logo": "http://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4945,7 +4767,6 @@
           "tags": [
             "news"
           ],
-          "logo": "http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -4965,7 +4786,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s25419q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5016,7 +4836,6 @@
           "tags": [
             "techno"
           ],
-          "logo": "https://techno.fm/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5035,7 +4854,6 @@
             "club",
             "trance"
           ],
-          "logo": "http://www.1mix.co.uk/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5055,7 +4873,6 @@
             "news",
             "talk"
           ],
-          "logo": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5074,7 +4891,6 @@
             "indie",
             "pop"
           ],
-          "logo": "http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5108,7 +4924,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "english",
-          "logo": "http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5130,7 +4945,6 @@
             "uk",
             "world news"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/2560px-BBC_News_HD_Logo.svg.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5178,7 +4992,6 @@
             "sports",
             "talk"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24943q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5195,7 +5008,6 @@
           "tags": [
             "adult contemporary"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24940q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5208,7 +5020,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "english",
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5249,7 +5060,6 @@
             "electronic",
             "experimental"
           ],
-          "logo": "https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5269,7 +5079,6 @@
             "house",
             "trance"
           ],
-          "logo": "https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5288,7 +5097,6 @@
             "chillout",
             "relaxing"
           ],
-          "logo": "http://www.chilloutibizafm.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5306,7 +5114,6 @@
           "tags": [
             "jazz"
           ],
-          "logo": "https://www.linn.co.uk/",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -5330,7 +5137,6 @@
           "tags": [
             "international"
           ],
-          "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5347,7 +5153,6 @@
           "tags": [
             "international"
           ],
-          "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5364,7 +5169,6 @@
           "tags": [
             "international"
           ],
-          "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5381,7 +5185,6 @@
           "tags": [
             "international"
           ],
-          "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5398,7 +5201,6 @@
           "tags": [
             "international"
           ],
-          "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5506,7 +5308,6 @@
           "tags": [
             "jpop"
           ],
-          "logo": "https://listen.moe/favicon.ico",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5525,7 +5326,6 @@
             "anime",
             "touhou"
           ],
-          "logo": "https://gensokyoradio.net/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5568,7 +5368,6 @@
             "pop",
             "smooth jazz"
           ],
-          "logo": "https://www.beachfm.co.jp/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5606,7 +5405,6 @@
           "tags": [
             "classical"
           ],
-          "logo": "https://ottava.jp/img/common/touch_icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5663,7 +5461,6 @@
           "tags": [
             "international"
           ],
-          "logo": "https://supertokio.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5701,7 +5498,6 @@
             "classical",
             "jpop"
           ],
-          "logo": "https://www.nhk.or.jp/favicon.ico",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5714,7 +5510,6 @@
           "bitrateKbps": 128,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://plaza.one/icons/apple-touch-icon.png?v=7knqx0ar5k",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5745,7 +5540,6 @@
           "bitrateKbps": 128,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://mmo.aiircdn.com/387/5e763985f1dab.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5765,7 +5559,6 @@
             "full service",
             "music"
           ],
-          "logo": "https://fmsetagaya.com/wp/wp-content/uploads/2019/01/rogo01.gif",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5801,7 +5594,6 @@
           "tags": [
             "vaporwave"
           ],
-          "logo": "https://plaza.one/icons/circle.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5814,7 +5606,6 @@
           "bitrateKbps": 32,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://www.alrjazz.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5846,7 +5637,6 @@
             "jazz",
             "piano jazz"
           ],
-          "logo": "https://static.wixstatic.com/media/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png/v1/fill/w_1070,h_1080,al_c/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5864,7 +5654,6 @@
           "tags": [
             "international"
           ],
-          "logo": "https://www3.nhk.or.jp/nhkworld/assets/images/statics/ja_nw_premium_img_2019.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -5894,7 +5683,6 @@
           "tags": [
             "christian"
           ],
-          "logo": "https://www.hitsujikai-radio.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5928,7 +5716,6 @@
           "tags": [
             "pop"
           ],
-          "logo": "https://img1.wsimg.com/isteam/ip/fc3d1b44-9881-4eb0-98a3-9594c00a2ffa/v96%20500x500%20logo%20for%20app.png/:/rs=w:114,h:114,m",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -5965,7 +5752,6 @@
           "tags": [
             "military"
           ],
-          "logo": "https://afngo.net/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6023,7 +5809,6 @@
             "jpop",
             "oldies"
           ],
-          "logo": "https://moremalc.com/natsukashii.jpeg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6046,7 +5831,6 @@
             "j-pop",
             "j-rock"
           ],
-          "logo": "https://www.stereoanime.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6085,7 +5869,6 @@
             "pop",
             "pop-rock"
           ],
-          "logo": "https://assets.laut.fm/e2ba4c2950bdc47c7af05acebcdb9661",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6105,7 +5888,6 @@
             "j-pop",
             "japanese"
           ],
-          "logo": "https://moremalc.com/jc512.jpeg",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -6135,7 +5917,6 @@
             "news",
             "regional"
           ],
-          "logo": "https://www.ndr.de/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6158,7 +5939,6 @@
             "news",
             "regional"
           ],
-          "logo": "http://www.ndr.de/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6176,7 +5956,6 @@
           "tags": [
             "pop"
           ],
-          "logo": "https://www.ndr.de//apple-touch-icon-57x57.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6199,7 +5978,6 @@
             "local news",
             "news"
           ],
-          "logo": "https://www.ndr.de/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6238,7 +6016,6 @@
           "tags": [
             "pop"
           ],
-          "logo": "https://www1.wdr.de/radio/1live-diggi/resources-v5.122.3/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6259,7 +6036,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6279,7 +6055,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6300,7 +6075,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6319,7 +6093,6 @@
             "oldies",
             "pop"
           ],
-          "logo": "http://www.ndr.de/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6340,7 +6113,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6361,7 +6133,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6381,7 +6152,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://www1.wdr.de/resources-v5.158.1/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6402,7 +6172,6 @@
             "jazz",
             "world music"
           ],
-          "logo": "https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6415,7 +6184,6 @@
           "bitrateKbps": 128,
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://www.swr.de/assets/swr/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6452,7 +6220,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6474,7 +6241,6 @@
             "rock",
             "soul"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/1200px-NDR_Blue_Logo.svg.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6492,7 +6258,6 @@
           "tags": [
             "info"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/SWR_Aktuell_Logo.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6511,7 +6276,6 @@
             "dj",
             "dj sets"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/189px-WDR_1LIVE_Logo_2016.svg.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6534,7 +6298,6 @@
             "schlager",
             "schlageroldies"
           ],
-          "logo": "https://www.swr.de/assets/swr/swr4/apple-touch-icon-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6574,7 +6337,6 @@
             "special broadcast",
             "talk"
           ],
-          "logo": "https://www.deutschlandradio.de/static/img/deutschlandradio/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6595,7 +6357,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6615,7 +6376,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://www1.wdr.de/resources-v5.122.3/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6634,7 +6394,6 @@
             "information",
             "news"
           ],
-          "logo": "https://www1.wdr.de/resources-v5.122.3/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6652,7 +6411,6 @@
           "tags": [
             "oldies"
           ],
-          "logo": "http://www.ndr.de/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6666,7 +6424,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "german",
-          "logo": "https://www.swr3.de/assets/swr3/icons/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6684,7 +6441,6 @@
           "tags": [
             "hiphop"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/189px-WDR_1LIVE_Logo_2016.svg.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6704,7 +6460,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6725,7 +6480,6 @@
             "contemporary hits",
             "pop"
           ],
-          "logo": "http://www.ndr.de/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6746,7 +6500,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6768,7 +6521,6 @@
             "youth",
             "öffentlich-rechtlich"
           ],
-          "logo": "https://dasding.de/assets/dasding/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6788,7 +6540,6 @@
             "pop",
             "schlager"
           ],
-          "logo": "https://www.phonostar.de/images/auto_created/NDR_Schlager184x184.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6820,7 +6571,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6840,7 +6590,6 @@
             "oldies",
             "rock"
           ],
-          "logo": "https://www.phonostar.de/images/auto_created/NDR1_Niedersachsen2184x184.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6854,7 +6603,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "german",
-          "logo": "https://www1.wdr.de/radio/1live/resources-v5.122.3/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6874,7 +6622,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://www1.wdr.de/resources-v5.122.3/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6895,7 +6642,6 @@
             "news",
             "world news"
           ],
-          "logo": "https://www1.wdr.de/resources-v5.134.2/img/favicon/favicon.ico",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -6916,7 +6662,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6939,7 +6684,6 @@
             "ndr 1 oldenburg",
             "ndr1"
           ],
-          "logo": "https://www.phonostar.de/images/auto_created/NDR1_Niedersachsen2184x184.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6952,7 +6696,6 @@
           "bitrateKbps": 128,
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://liveradio.swr.de/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -6972,7 +6715,6 @@
             "dance",
             "r&b"
           ],
-          "logo": "https://www1.wdr.de/radio/cosmo/resources-v5.128.1/img/favicon/favicon-32x32.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7012,7 +6754,6 @@
           "tags": [
             "music"
           ],
-          "logo": "https://www.swr3.de/assets/swr3/icons/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7026,7 +6767,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "german",
-          "logo": "https://www.swr.de/assets/swr/swr1/apple-touch-icon-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7044,7 +6784,6 @@
           "tags": [
             "pop"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/189px-WDR_1LIVE_Logo_2016.svg.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7077,7 +6816,6 @@
             "local news",
             "news"
           ],
-          "logo": "https://www.ndr.de/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7097,7 +6835,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://www1.wdr.de/resources/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7118,7 +6855,6 @@
             "contemporary hits",
             "pop"
           ],
-          "logo": "https://www.ndr.de/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7149,7 +6885,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "german",
-          "logo": "https://www.swr.de/assets/swr/swr2/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7162,7 +6897,6 @@
           "bitrateKbps": 128,
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://liveradio.swr.de/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7183,7 +6917,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7204,7 +6937,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7227,7 +6959,6 @@
             "special broadcast",
             "talk"
           ],
-          "logo": "https://www.deutschlandradio.de/static/img/deutschlandradio/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7245,7 +6976,6 @@
           "tags": [
             "pop"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/189px-WDR_1LIVE_Logo_2016.svg.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7285,7 +7015,6 @@
             "special broadcast",
             "talk"
           ],
-          "logo": "https://www.deutschlandradio.de/static/img/deutschlandradio/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7322,7 +7051,6 @@
           "tags": [
             "oldies"
           ],
-          "logo": "https://www.ndr.de/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7343,7 +7071,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7381,7 +7108,6 @@
             "public service",
             "information"
           ],
-          "logo": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7401,7 +7127,6 @@
             "news",
             "pop music"
           ],
-          "logo": "https://swr1.de/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7436,7 +7161,6 @@
           "tags": [
             "pop"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/189px-WDR_1LIVE_Logo_2016.svg.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7454,7 +7178,6 @@
           "tags": [
             "easy listening"
           ],
-          "logo": "https://www.swr.de/assets/swr/swraktuell/apple-touch-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -7575,7 +7298,6 @@
           "tags": [
             "news talk"
           ],
-          "logo": "https://www.radio24.ilsole24ore.com/whitelabel/group-2420101401040528/img/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7596,7 +7318,6 @@
             "pop",
             "top 40"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/it/0/01/105.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7637,7 +7358,6 @@
             "folk",
             "italiana"
           ],
-          "logo": "https://armisa.it/assets/favicon/android-chrome-512x512.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7656,7 +7376,6 @@
             "mediaset",
             "pop rock"
           ],
-          "logo": "http://www.virginradio.it/favicon_2.ico?v=1722509813651",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7694,7 +7413,6 @@
             "80s",
             "noventa padovana"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7774,7 +7492,6 @@
             "sport",
             "talk"
           ],
-          "logo": "http://cdn-radiotime-logos.tunein.com/s17518q.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7809,7 +7526,6 @@
           "tags": [
             "italian pop"
           ],
-          "logo": "https://www.radioitalia.it/images/logo-radioitalia.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -7881,7 +7597,6 @@
           "tags": [
             "pop"
           ],
-          "logo": "https://kisskissitalia.it/wp-content/uploads/2021/07/cropped-favicon-kisskissitalia-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7921,7 +7636,6 @@
             "mediaset",
             "pop"
           ],
-          "logo": "http://www.r101.it/favicon_7.ico?v=1722509814243",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -7959,7 +7673,6 @@
             "electronica",
             "napoli"
           ],
-          "logo": "https://radioibiza.it/wp-content/uploads/2021/07/cropped-favicon-ibiza-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8055,7 +7768,6 @@
           "tags": [
             "hits"
           ],
-          "logo": "https://kisskiss.it/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8112,7 +7824,6 @@
             "adult contemporary",
             "pop"
           ],
-          "logo": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8151,7 +7862,6 @@
             "genova",
             "house"
           ],
-          "logo": "http://www.italiadancemusic.com/it/themes/corporate_lite/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8188,7 +7898,6 @@
           "tags": [
             "sport"
           ],
-          "logo": "https://www.radiosportiva.com/wp-content/uploads/2021/09/logo-radiosportiva-white.svg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8247,7 +7956,6 @@
             "mediaset",
             "soul"
           ],
-          "logo": "http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -8369,7 +8077,6 @@
             "pop",
             "top 40"
           ],
-          "logo": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8392,7 +8099,6 @@
             "latin music",
             "latino"
           ],
-          "logo": "https://www.chocolatefm.com/__ovh/common/img/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8457,7 +8163,6 @@
             "pop",
             "urban"
           ],
-          "logo": "https://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8480,7 +8185,6 @@
             "electronic",
             "house"
           ],
-          "logo": "https://recursosweb.prisaradio.com/fotos/original/010002753887.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8535,7 +8239,6 @@
           "tags": [
             "música en español"
           ],
-          "logo": "https://www.cadenadial.com/wp-content/uploads/2024/03/cropped-512x512_favicon_dial-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8558,7 +8261,6 @@
             "latin music",
             "latino"
           ],
-          "logo": "https://chocolatefm.com/radio-browser.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8594,7 +8296,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://cadenaser00.epimg.net/favicon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8613,7 +8314,6 @@
             "ibiza",
             "lounge"
           ],
-          "logo": "https://cafedelmar.com/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8631,7 +8331,6 @@
             "chill",
             "chillout"
           ],
-          "logo": "http://www.costadelmar-radio.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8649,7 +8348,6 @@
           "tags": [
             "pop rock"
           ],
-          "logo": "https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8662,7 +8360,6 @@
           "bitrateKbps": 192,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "http://www.absolutechillout.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8680,7 +8377,6 @@
           "tags": [
             "sports news"
           ],
-          "logo": "http://e00-marca.uecdn.es/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8699,7 +8395,6 @@
             "pop",
             "top 40"
           ],
-          "logo": "https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8794,7 +8489,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "spanish",
-          "logo": "https://static.mytuner.mobi/media/tvos_radios/hp9JgkDT82.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8808,7 +8502,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "spanish",
-          "logo": "http://www.locafm.com/assets/img/favicon/apple-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8859,7 +8552,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "spanish",
-          "logo": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8879,7 +8571,6 @@
             "house",
             "tropical"
           ],
-          "logo": "https://perfect-radio.com/____impro/1/onewebmedia/Logo%20Perfect%20Deephouse.jpg?etag=W%2F%22847e5-619665ca%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=355%2B372&extract=0%2B0%2B354%2B372&quality=85",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8902,7 +8593,6 @@
             "latin",
             "latin music"
           ],
-          "logo": "https://www.chocolatefm.com/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -8934,7 +8624,6 @@
           "sampleRate": 48000,
           "channels": 2,
           "language": "castellano. español",
-          "logo": "https://img2.rtve.es/imagenes/directo-elecciones-cataluna/1504082563113.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -8955,7 +8644,6 @@
             "radio maria",
             "talk"
           ],
-          "logo": "https://www.radiomaria.es/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9102,7 +8790,6 @@
             "melodic",
             "techno"
           ],
-          "logo": "https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9120,7 +8807,6 @@
           "tags": [
             "classic rock"
           ],
-          "logo": "https://www.arrow.nl/wp-content/themes/bones-master/library/images/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9159,7 +8845,6 @@
             "80's",
             "evergreens"
           ],
-          "logo": "https://www.nporadio5.nl/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9197,7 +8882,6 @@
             "house",
             "pop"
           ],
-          "logo": "https://www.slam.nl/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9210,7 +8894,6 @@
           "bitrateKbps": 96,
           "sampleRate": 32000,
           "channels": 2,
-          "logo": "https://qmusic.nl/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9233,7 +8916,6 @@
             "italodance",
             "italohouse"
           ],
-          "logo": "https://jplayer-generator.live-streams.nl/upload/96142657.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9308,7 +8990,6 @@
           "tags": [
             "hits"
           ],
-          "logo": "https://www.skyradio.nl/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9342,7 +9023,6 @@
           "bitrateKbps": 128,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://www.radio10.nl/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9360,7 +9040,6 @@
           "tags": [
             "christmas music"
           ],
-          "logo": "http://www.skyradio.nl/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9381,7 +9060,6 @@
             "house",
             "pop"
           ],
-          "logo": "https://www.slam.nl/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9414,7 +9092,6 @@
             "classical",
             "early music"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Concertzender_Logo.svg/1200px-Concertzender_Logo.svg.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9427,7 +9104,6 @@
           "bitrateKbps": 192,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://www.italopower.com/assets/img/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9490,7 +9166,6 @@
             "netherlands",
             "news"
           ],
-          "logo": "https://www.bnr.nl/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9508,7 +9183,6 @@
           "tags": [
             "arabic"
           ],
-          "logo": "https://www.funx.nl/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9522,7 +9196,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "dutch",
-          "logo": "https://kink.nl/static/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9540,7 +9213,6 @@
           "tags": [
             "hiphop"
           ],
-          "logo": "https://www.funx.nl/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9570,7 +9242,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "dutch",
-          "logo": "https://s.regiogroei.cloud/img/favicons/rijnmond/apple-touch-icon.png?v=1689602147266",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -9844,7 +9515,6 @@
             "public radio",
             "srg ssr"
           ],
-          "logo": "http://www.radioswisspop.ch/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9881,7 +9551,6 @@
             "public radio",
             "srg ssr"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9936,7 +9605,6 @@
             "public radio",
             "srg ssr"
           ],
-          "logo": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -9956,7 +9624,6 @@
             "public radio",
             "srg ssr"
           ],
-          "logo": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10086,7 +9753,6 @@
             "nu-jazz",
             "trip hop"
           ],
-          "logo": "http://www.gds.fm/_nuxt/icons/icon_64x64.96821f.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10107,7 +9773,6 @@
             "pop",
             "swiss"
           ],
-          "logo": "https://energy.ch/ech-new/images/ech/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10171,7 +9836,6 @@
           "tags": [
             "rock"
           ],
-          "logo": "https://austrianrockradio.at/wp-content/uploads/2023/02/liferadio-150x150.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10189,7 +9853,6 @@
           "tags": [
             "orf"
           ],
-          "logo": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10203,7 +9866,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "german",
-          "logo": "http://www.kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10226,7 +9888,6 @@
             "rock",
             "public radio"
           ],
-          "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10244,7 +9905,6 @@
           "tags": [
             "adult contemporary"
           ],
-          "logo": "http://www.kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10262,7 +9922,6 @@
           "tags": [
             "hard rock"
           ],
-          "logo": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_HARDROCK.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10283,7 +9942,6 @@
             "lounge",
             "smooth jazz"
           ],
-          "logo": "https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10302,7 +9960,6 @@
             "orf",
             "pop"
           ],
-          "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10325,7 +9982,6 @@
             "rock",
             "public radio"
           ],
-          "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10339,7 +9995,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "german",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10359,7 +10014,6 @@
             "dab+",
             "kids"
           ],
-          "logo": "https://www.meinkinderradio.at/wp-content/uploads/2021/07/favicon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10377,7 +10031,6 @@
           "tags": [
             "rock"
           ],
-          "logo": "https://www.radio886.at/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10417,7 +10070,6 @@
             "dab+",
             "easy listening"
           ],
-          "logo": "https://www.city23.at/wp-content/themes/city23/medias/app-icons/apple-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10450,7 +10102,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "german",
-          "logo": "https://u1-radio.at/wp-content/uploads/2022/03/u1_favicon512x512-150x150.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10468,7 +10119,6 @@
           "tags": [
             "orf"
           ],
-          "logo": "https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10486,7 +10136,6 @@
           "tags": [
             "orf"
           ],
-          "logo": "https://oe1.orf.at/static/img/logo_oe1.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10504,7 +10153,6 @@
           "tags": [
             "relaxation"
           ],
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GNifevkmpegEQspaFGFI-sV6_k3ZQczflw&usqp=CAU",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10522,7 +10170,6 @@
           "tags": [
             "classic rock"
           ],
-          "logo": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_CLASSICROCK.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10540,7 +10187,6 @@
           "tags": [
             "orf"
           ],
-          "logo": "https://orfodon.org/system/accounts/avatars/111/374/623/444/743/699/original/3022673107e835ba.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10576,7 +10222,6 @@
           "tags": [
             "jazz"
           ],
-          "logo": "http://jazz.w3.at/logo.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10597,7 +10242,6 @@
             "eurodance",
             "top40"
           ],
-          "logo": "https://www.eurodance.at/images/logo.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10621,7 +10265,6 @@
           "bitrateKbps": 72,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10671,7 +10314,6 @@
             "local radio",
             "volkstümlich"
           ],
-          "logo": "https://orfodon.org/system/accounts/avatars/111/374/561/229/082/482/original/57acca969ede8452.png",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -10700,7 +10342,6 @@
             "metalcore",
             "thrash metal"
           ],
-          "logo": "https://storage.googleapis.com/wzukusers/user-27172421/images/fav-6a63dee4b19e4b57a9038cc5f853f41a/apple-touch-icon-120x120.png?v=fav-6a63dee4b19e4b57a9038cc5f853f41a",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10735,7 +10376,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "english",
-          "logo": "https://www.680news.com/favicon.ico",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -10756,7 +10396,6 @@
             "news",
             "news talk"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10774,7 +10413,6 @@
           "tags": [
             "public radio"
           ],
-          "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._kBBu0jkxW7vsBMbUIlxpwHaJA%26pid%3DApi&f=1",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -10792,7 +10430,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://ici.radio-canada.ca/favicon.ico",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -10815,7 +10452,6 @@
             "70s",
             "80's"
           ],
-          "logo": "https://static.wixstatic.com/media/f361b3_1bad7e5fb9a54196b2ac2c2fe71d6e4f~mv2.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10892,7 +10528,6 @@
           "tags": [
             "news"
           ],
-          "logo": "http://www.ctvnews.ca/pf/resources/images/ctvnews/favicon.ico?d=111",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10932,7 +10567,6 @@
           "tags": [
             "jazz"
           ],
-          "logo": "https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -10977,7 +10611,6 @@
             "70s",
             "80's"
           ],
-          "logo": "https://static.wixstatic.com/media/f361b3_a5ce07773ea14d209785044fbeb26dca~mv2.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11016,7 +10649,6 @@
             "quebec city",
             "talk"
           ],
-          "logo": "https://radiox.com/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11039,7 +10671,6 @@
             "metal",
             "thrash"
           ],
-          "logo": "http://crucialvelocity.ca/CrucialVelocityLogo.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11062,7 +10693,6 @@
             "chillout",
             "easy listening"
           ],
-          "logo": "https://favicon-generator.org/favicon-generator/htdocs/favicons/2023-12-16/9274e8a4803971186ff5c45359ab77a4.ico.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11097,7 +10727,6 @@
             "bach",
             "classical"
           ],
-          "logo": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11131,7 +10760,6 @@
             "information",
             "talk & speech"
           ],
-          "logo": "https://ici.radio-canada.ca/favicon.ico",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -11153,7 +10781,6 @@
             "southern rock",
             "stoner rock"
           ],
-          "logo": "https://www.grittyrockradio.com/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11194,7 +10821,6 @@
             "classical",
             "mozart"
           ],
-          "logo": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11239,7 +10865,6 @@
             "70er",
             "70s"
           ],
-          "logo": "https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11258,7 +10883,6 @@
             "classic rock",
             "commercial"
           ],
-          "logo": "https://q107.com/wp-content/uploads/sites/12/2017/12/cropped-favicon_q107_square_transparent.png?w=180",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11303,7 +10927,6 @@
             "80er",
             "80s"
           ],
-          "logo": "https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11317,7 +10940,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "english",
-          "logo": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11330,7 +10952,6 @@
           "bitrateKbps": 128,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://i0.wp.com/decayfm.com/wp-content/uploads/2018/12/cropped-512-1.jpg?fit=180%2c180&#038;ssl=1",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11353,7 +10974,6 @@
             "club",
             "cool jazz"
           ],
-          "logo": "https://static.wixstatic.com/media/f361b3_2722a2a63db342f0901576a0168f2571~mv2.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11375,7 +10995,6 @@
             "music",
             "pop"
           ],
-          "logo": "https://liveonlineradio.net/wp-content/uploads/2017/02/Forest-Green-Radio-100x47.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11418,7 +11037,6 @@
             "love songs",
             "slow"
           ],
-          "logo": "https://slowlyradio.com/wp-content/uploads/2023/09/cropped-favicon-slowlyradio-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11438,7 +11056,6 @@
             "80s",
             "j-pop"
           ],
-          "logo": "https://mmo.aiircdn.com/387/5e76b6ebedcef.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11459,7 +11076,6 @@
             "japanese music",
             "jpop"
           ],
-          "logo": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11478,7 +11094,6 @@
             "idols",
             "j-pop"
           ],
-          "logo": "https://asiadreamradio.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -11506,7 +11121,6 @@
             "newsradio",
             "public radio"
           ],
-          "logo": "http://www.abc.net.au/favicon.ico",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -11542,7 +11156,6 @@
           "tags": [
             "progressive rock"
           ],
-          "logo": "https://progrockmachine.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11560,7 +11173,6 @@
           "tags": [
             "classic hits"
           ],
-          "logo": "https://www.gold1043.com.au/wp-content/themes/arn/assets/favicons/favicon_gold/favicon-32x32.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11580,7 +11192,6 @@
             "music",
             "pop"
           ],
-          "logo": "https://fresh927.com.au/graphics/favicon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11598,7 +11209,6 @@
           "tags": [
             "chillout"
           ],
-          "logo": "https://www.sbs.com.au/_next/static/img/language/app-icon_128x128-18ef105.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11640,7 +11250,6 @@
             "rightwing",
             "sky news"
           ],
-          "logo": "https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11659,7 +11268,6 @@
             "commercial",
             "easy listening"
           ],
-          "logo": "https://d2nzqyyfd6k6c7.cloudfront.net/favicon_2.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11673,7 +11281,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "english",
-          "logo": "http://www.abc.net.au/core-assets/triplej/favicon-32x32.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -11693,7 +11300,6 @@
             "90s",
             "hits"
           ],
-          "logo": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/au.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11728,7 +11334,6 @@
           "tags": [
             "italian pop"
           ],
-          "logo": "https://storage.googleapis.com/wzukusers/user-27173994/images/58b118eda1abdgoQWCAr/ItaliaFm3.1.2.1_d200.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11771,7 +11376,6 @@
           "bitrateKbps": 33,
           "sampleRate": 48000,
           "channels": 2,
-          "logo": "https://triplem.listnr.com/wp-content/uploads/2024/04/cropped-mmm-favicon-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11785,7 +11389,6 @@
           "sampleRate": 22050,
           "channels": 2,
           "language": "english",
-          "logo": "https://www.2gb.com/wp-content/themes/2gb/assets/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11816,7 +11419,6 @@
           "tags": [
             "soft adult contemporary"
           ],
-          "logo": "https://i.ibb.co/gb1pQJc/smoothrelax.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11834,7 +11436,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://live-production.wcms.abc-cdn.net.au/7ee8a275df331791ce3b86c17aef1d50",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -11852,7 +11453,6 @@
           "tags": [
             "adult top 40"
           ],
-          "logo": "https://www.kiis1011.com.au/wp-content/themes/arn/assets/favicons/favicon_kiis1011/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11874,7 +11474,6 @@
             "news",
             "public radio"
           ],
-          "logo": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -11913,7 +11512,6 @@
             "eclectic",
             "sydney"
           ],
-          "logo": "http://fbiradio.com/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11936,7 +11534,6 @@
             "hong kong music",
             "j-pop"
           ],
-          "logo": "https://www.sbs.com.au/_next/static/img/language/app-icon_128x128-18ef105.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11954,7 +11551,6 @@
           "tags": [
             "old time radio"
           ],
-          "logo": "http://www.australiandigitalradio.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11971,7 +11567,6 @@
           "tags": [
             "hits"
           ],
-          "logo": "http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -11991,7 +11586,6 @@
             "indie",
             "low bandwidth"
           ],
-          "logo": "http://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12010,7 +11604,6 @@
             "news",
             "talk radio"
           ],
-          "logo": "https://www.3aw.com.au/wp-content/themes/3aw/assets/img/favicon/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12028,7 +11621,6 @@
             "news",
             "talk"
           ],
-          "logo": "https://live-production.wcms.abc-cdn.net.au/34bb5853530db865de5b5ed93c44bc54",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -12085,7 +11677,6 @@
           "tags": [
             "k-pop"
           ],
-          "logo": "https://i.ibb.co/zHV7NMVJ/Li-STNR-Square-Tile-1200x1200-K-POP.jpg",
           "icy": false,
           "measured": "2026-10-13"
         }
@@ -12218,7 +11809,6 @@
             "adult contemporary",
             "lite"
           ],
-          "logo": "https://www.antena1.com.br/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12256,7 +11846,6 @@
             "classic hits",
             "flashback"
           ],
-          "logo": "https://img.radios.com.br/radio/lg/radio8_1626274312.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12309,7 +11898,6 @@
             "jazz",
             "mpb"
           ],
-          "logo": "https://bossajazzbrasil.com/wp-content/uploads/2020/12/cropped-bjs-app-180x180.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12343,7 +11931,6 @@
             "rock",
             "romantic"
           ],
-          "logo": "https://static.radios.com.br/img/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12458,7 +12045,6 @@
             "smooth jazz",
             "smooth lounge"
           ],
-          "logo": "https://www.vip-radios.fm/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12477,7 +12063,6 @@
             "news",
             "news talk"
           ],
-          "logo": "https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -12495,7 +12080,6 @@
             "futebol",
             "notícias"
           ],
-          "logo": "https://gauchazh.clicrbs.com.br/static/icons/mstile-70x70.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -12512,7 +12096,6 @@
           "tags": [
             "m3u8"
           ],
-          "logo": "http://graph.facebook.com/redeatlantida/picture?type=large",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -12530,7 +12113,6 @@
           "tags": [
             "pop"
           ],
-          "logo": "https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -12618,7 +12200,6 @@
             "adulta",
             "flashback"
           ],
-          "logo": "https://img.radios.com.br/radio/lg/radio162745_1603505533.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12670,7 +12251,6 @@
             "adult",
             "soccer"
           ],
-          "logo": "https://img.radios.com.br/radio/lg/radio8803_1578516680.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12683,7 +12263,6 @@
           "bitrateKbps": 49,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-96x96-2.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12703,7 +12282,6 @@
             "soccer",
             "sports"
           ],
-          "logo": "https://img.radios.com.br/radio/lg/radio14_1646746883.jpeg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12938,7 +12516,6 @@
             "grupera",
             "grupero"
           ],
-          "logo": "https://cdn-radiotime-logos.tunein.com/s24506g.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12961,7 +12538,6 @@
             "baladas en español",
             "cdmx"
           ],
-          "logo": "https://i.iheart.com/v3/re/new_assets/ce6ef23e-2cdd-44a2-b139-c2b08f9365e3?ops=fit(240%2C240)",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -12984,7 +12560,6 @@
             "ciudad de méxico",
             "ciudad mexico"
           ],
-          "logo": "https://yt3.ggpht.com/ytc/AAUvwnjGCqHNgRIXL-qgnm4HKlYyXS_1Yy-ctciPKLMI=s900-c-k-c0x00ffffff-no-rj",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13029,7 +12604,6 @@
             "amor sólo música románti",
             "balada"
           ],
-          "logo": "https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988?ops=fit(240%2C240)",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13052,7 +12626,6 @@
             "banda",
             "cdmx"
           ],
-          "logo": "https://www.iheart.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13075,7 +12648,6 @@
             "90s y más",
             "acir"
           ],
-          "logo": "https://i.iheart.com/v3/re/new_assets/77b18faf-00b4-483d-bb24-377cdd4b4998?ops=fit(240%2C240)",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13120,7 +12692,6 @@
             "entretenimiento",
             "español"
           ],
-          "logo": "https://cdn-profiles.tunein.com/s90291/images/logod.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13143,7 +12714,6 @@
             "entretenimiento",
             "español"
           ],
-          "logo": "https://i.postimg.cc/L8HkTvYg/oye897.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13166,7 +12736,6 @@
             "español",
             "estación"
           ],
-          "logo": "https://cdn-profiles.tunein.com/s90136/images/logod.png",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -13276,7 +12845,6 @@
           "bitrateKbps": 65,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://fmrockandpop.com/pwa/ios_192x192.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13289,7 +12857,6 @@
           "bitrateKbps": 65,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13302,7 +12869,6 @@
           "bitrateKbps": 66,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://rivadavia.com.ar/apple-touch-icon.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13325,7 +12891,6 @@
             "español",
             "estación"
           ],
-          "logo": "http://cdn-profiles.tunein.com/s6984/images/logod.jpg",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13338,7 +12903,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "español argentina",
-          "logo": "https://www.radio10.com.ar/css-custom/220/favicons/apple-touch-icon-120x120.png",
           "icy": false,
           "measured": "2026-10-13"
         },
@@ -13372,7 +12936,6 @@
             "noticias",
             "politica"
           ],
-          "logo": "https://www.eldestapeweb.com/img/favicons/apple-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13420,7 +12983,6 @@
           "tags": [
             "news"
           ],
-          "logo": "https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13461,7 +13023,6 @@
             "cultura",
             "noticias"
           ],
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nacional_AM_870_2016.png",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -13527,7 +13088,6 @@
             "exa",
             "exa fm"
           ],
-          "logo": "https://www.exafm.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -13621,7 +13181,6 @@
             "neiva",
             "news"
           ],
-          "logo": "http://www.bluradio.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13640,7 +13199,6 @@
             "news",
             "talk radio"
           ],
-          "logo": "http://www.caracol.com.co/pf/resources/caracol-colombia/touch-icon-ipad.png?d=323",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13660,7 +13218,6 @@
             "news and talk",
             "talk radio"
           ],
-          "logo": "http://wradio.com.co/pf/resources/wradio-colombia/touch-icon-ipad.png?d=172",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13695,7 +13252,6 @@
           "sampleRate": 44100,
           "channels": 2,
           "language": "spanish",
-          "logo": "https://cdn.webrad.io/images/brand/icon_192x192.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13715,7 +13271,6 @@
             "latin",
             "latino"
           ],
-          "logo": "https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13735,7 +13290,6 @@
             "vallenato",
             "various"
           ],
-          "logo": "https://olimpicastereo.com.co/wp-content/uploads/2019/12/Logo_olimpica_stereologo.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13776,7 +13330,6 @@
             "love songs",
             "spanish pop"
           ],
-          "logo": "http://superclasica.com/wp/wp-content/uploads/2013/11/logo-peq-color-mini.bmp",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13818,7 +13371,6 @@
             "musica romantica",
             "pop"
           ],
-          "logo": "https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13841,7 +13393,6 @@
             "caracol radio",
             "colombia"
           ],
-          "logo": "https://caracol.com.co/pf/resources/caracol-colombia/touch-icon-ipad.png?d=174",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13861,7 +13412,6 @@
             "reggaeton",
             "urbano"
           ],
-          "logo": "https://mixradio.co/icon?b8748d2f62517688",
           "icy": true,
           "measured": "2026-10-13"
         }
@@ -13927,7 +13477,6 @@
             "reggae",
             "ska"
           ],
-          "logo": "https://static.wixstatic.com/media/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -13984,7 +13533,6 @@
           "bitrateKbps": 192,
           "sampleRate": 44100,
           "channels": 2,
-          "logo": "https://www.facebook.com/favicon.ico",
           "icy": true,
           "measured": "2026-10-13"
         },
@@ -14004,7 +13552,6 @@
             "roots reggae",
             "soca"
           ],
-          "logo": "https://link.radioking.com/ghetto-vibes-radio-station",
           "icy": true,
           "measured": "2026-10-13"
         }
