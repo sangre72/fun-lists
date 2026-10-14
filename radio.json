@@ -2610,7 +2610,9 @@
           "sampleRate": 48000,
           "channels": 2,
           "icy": false,
-          "measured": "2026-10-13"
+          "measured": "2026-10-13",
+          "unstable": true,
+          "note": "회선 따라 끊길 수 있음"
         },
         {
           "id": "us-kqed-88-5fm-npr-san-francisco-ca",
